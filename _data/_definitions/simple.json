@@ -1,5 +1,9 @@
 {
   "name": {
     "required": true
+  },
+  "thumb": {
+    "required": true,
+    "type": "image"
   }
 }
